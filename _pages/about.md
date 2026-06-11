@@ -22,11 +22,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false # set to true once you have blog posts to feature here
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I received my B.S. (2022) and M.S. (2024) in Electrical Engineering from the Korea Advanced Institute of Science and Technology (KAIST). I am currently a Ph.D. student in Electrical Engineering at KAIST under the guidance of Professor Chang D. Yoo.
+I am a **Ph.D. student** in Electrical Engineering at **KAIST**, advised by **Prof. Chang D. Yoo**. I received my B.S. (2022) and M.S. (2024), both in Electrical Engineering from KAIST.
 
-My research interests include large language model alignment and reasoning, multimodal learning, and speech representation learning. My recent work spans efficient adaptation of foundation models, multimodal language models, and self-supervised speech learning. I am broadly interested in principled methods for adapting and improving foundation models under limited, noisy, or structured supervision. My long-term goal is to contribute to the development of self-improving agentic AI systems with reasoning capabilities that can operate reliably in complex domains.
+My research focuses on **large language model (LLM) alignment and reasoning**, **multimodal learning**, and **self-supervised speech representation learning**. Recent projects include parameter-efficient adaptation of foundation models and multimodal language models. More broadly, I study principled methods for adapting and improving foundation models under _limited, noisy, or structured supervision_ — with the long-term goal of building **self-improving, agentic AI systems** that reason reliably in complex domains.
