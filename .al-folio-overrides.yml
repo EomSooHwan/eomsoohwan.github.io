@@ -41,7 +41,7 @@ overrides:
     gem_version: 1.0.11
     upstream_path: _layouts/bib.liquid
     upstream_sha256: 430311d9b94adf6fb1c2fab7609f6e726efc98e2b50e7b1c4cde0ad654c04506
-    local_sha256: 0717cbc0036b3edbd6a98bfe4f43e3ad40d4ea1d4cabd9e5bdae29068fdd5c94
+    local_sha256: 6684db98a58102cd09e6d394c4fffec4a65539571f0f59acd7596b1c1b4de485
     acknowledged_at: '2026-06-11'
   assets/css/main.scss:
     owner: al_folio_core
