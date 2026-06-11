@@ -34,3 +34,12 @@
 @use "tabs";
 @use "teachings";
 @use "typograms";
+
+/* Local tweaks (after the gem partials so they take precedence) */
+
+/* Make the bibliography year a legible section title instead of a faint line */
+.publications h2.bibliography {
+  color: var(--global-text-color);
+  font-weight: 500;
+  text-align: left;
+}
