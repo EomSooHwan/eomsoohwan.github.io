@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Daejeon, Korea</p>
-    <p><a href="mailto:sean1105@kaist.ac.kr">sean1105@kaist.ac.kr</a></p>
-    <p><a href="mailto:eomsoohwan1105@gmail.com">eomsoohwan1105@gmail.com</a></p>
+    <p><a href="mailto:sean1105@kaist.ac.kr">sean1105@kaist.ac.kr</a> (academic)</p>
+    <p><a href="mailto:eomsoohwan1105@gmail.com">eomsoohwan1105@gmail.com</a> (permanent)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
