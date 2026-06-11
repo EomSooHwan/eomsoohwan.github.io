@@ -1,0 +1,34 @@
+{% comment %}
+  Local override of al_folio_cv awards entry renderer.
+  Date is shown right-aligned and muted on the title row (stacks below on mobile).
+{% endcomment %}
+
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% for entry in entries %}
+    <li class="list-group-item">
+      <div class="d-flex flex-column flex-md-row justify-content-between">
+        <div class="flex-grow-1">
+          {% if entry.url %}
+            <h6 class="title font-weight-bold mb-0">
+              <a href="{{ entry.url }}">{{ entry.title }}</a>
+            </h6>
+          {% elsif entry.title %}
+            <h6 class="title font-weight-bold mb-0">{{ entry.title }}</h6>
+          {% endif %}
+
+          {% if entry.awarder %}
+            <h6 class="mb-0" style="font-size: 0.95rem">{{ entry.awarder }}</h6>
+          {% endif %}
+
+          {% if entry.summary %}
+            <p class="mb-0">{{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+          {% endif %}
+        </div>
+
+        {% if entry.date %}
+          <div class="text-right mt-1 mt-md-0 ml-md-4" style="white-space: nowrap; opacity: 0.7; font-size: 0.9rem">{{ entry.date }}</div>
+        {% endif %}
+      </div>
+    </li>
+  {% endfor %}
+</ul>
