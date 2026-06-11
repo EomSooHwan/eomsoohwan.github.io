@@ -82,6 +82,14 @@ cv:
         summary: "Operator · 2023 – 2026"
         highlights:
           - "Supported by the Center for Applied Research in Artificial Intelligence (CARAI) grant funded by DAPA and ADD, Korea."
+      - name: Circuit Foundation Model for DRAM Design
+        summary: "Co-operator · 2025 – Present"
+        highlights:
+          - "Supported by Samsung Electronics Device Solution."
+      - name: Agentic AI System for Autonomous Root Cause Analysis and Verification in Display Manufacturing Process
+        summary: "Supporter · 2025 – Present"
+        highlights:
+          - "Supported by Samsung Display Co., Ltd."
       - name: Development of Causal AI through Video Understanding and Reinforcement Learning, and Its Applications to Real Environments
         summary: "Supporter · 2022 – Present"
         highlights:
