@@ -13,6 +13,8 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<p style="opacity: 0.7; font-size: 0.9rem"><sup>*</sup> denotes equal contribution.</p>
+
 <div class="publications">
 
 {% bibliography %}
