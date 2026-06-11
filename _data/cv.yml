@@ -22,7 +22,7 @@ cv:
         end_date: Present
         highlights:
           - "Advisor: Prof. Chang D. Yoo (U-AIM Lab)"
-          - "GPA: (add your GPA) / 4.3"
+          - "GPA: 4.06 / 4.3"
       - institution: Korea Advanced Institute of Science and Technology (KAIST)
         location: Daejeon, Korea
         url: https://www.kaist.ac.kr/
@@ -32,17 +32,17 @@ cv:
         end_date: 2024
         highlights:
           - "Advisor: Prof. Chang D. Yoo (U-AIM Lab)"
-          - "Thesis: (add your M.S. thesis title)"
-          - "GPA: (add your GPA) / 4.3"
+          - "Thesis: Adaptive Maximum Entropy Regularization for Connectionist Temporal Classification"
+          - "GPA: 4.0 / 4.3"
       - institution: Korea Advanced Institute of Science and Technology (KAIST)
         location: Daejeon, Korea
         url: https://www.kaist.ac.kr/
         area: Electrical Engineering
         studyType: B.S.
-        start_date: 20XX
+        start_date: 2017
         end_date: 2022
         highlights:
-          - "GPA: (add your GPA) / 4.3"
+          - "GPA: 3.49 / 4.3"
 
     Research Experience:
       - position: Research Student
@@ -64,17 +64,40 @@ cv:
 
     Academic Services:
       - name: Conference Reviewing
-        # highlights:
-        #   - "Reviewer, <venue> (<year>)"
+        highlights:
+          - "International Conference on Machine Learning (ICML): 2026 (Gold Reviewer)"
+          - "International Conference on Acoustics, Speech & Signal Processing (ICASSP): 2024, 2025, 2026"
       - name: Teaching Assistance
-        # highlights:
-        #   - "Teaching Assistant, <course> (<semester>)"
+        highlights:
+          - "KAIST EE.40012 Foundation of Big Data Analytics (2024 Fall)"
+          - "KAIST EE.50031 Statistical Learning Theory  (2024 Spring, 2025 Spring, 2026 Spring)"
+          - "KAIST EE.30031 Introduction to Machine Learning (2023 Fall, 2025 Fall)"
+          - "KAIST EE.20002 Signals and Systems (2023 Spring, 2022 Fall)"
+          - "Hwaseong City-KAIST AI Specialized Curriculum - Large Language Models: 2024"
+          - "Seongnam-KAIST Next Generation ICT Research Center EE Co-op+ Joint Research Program: 2022 Fall, 2024 Fall"
+          - "Seongnam-KAIST Next Generation ICT Research Center Machine Learning and Big Data Course: 2022"
 
     Projects:
       - name: MX-11
-        summary: "Operator · Jan 2023 – Present"
+        summary: "Operator · Jan 2023 – Apr 2026"
         highlights:
           - "Supported by the Center for Applied Research in Artificial Intelligence (CARAI) grant funded by DAPA and ADD, Korea."
+      - name: Development of Causal AI through Video Understanding and Reinforcement Learning, and Its Applications to Real Environments
+        summary: "Supporter · Mar 2022 – Present"
+        highlights:
+          - "Supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea Government (MSIT)."
+      - name: Development and Study of AI Technologies to Inexpensively Conform to Evolving Policy on Ethics
+        summary: "Supporter · Mar 2022 – Present"
+        highlights:
+          - "Supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea Government (MSIT)."
+      - name: Development of Uncertainty-Aware Agents Learning by Asking Questions
+        summary: "Supporter · Mar 2022 – Present"
+        highlights:
+          - "Supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea Government (MSIT)."
+      - name: Multi-modal Generative AI for Summarization
+        summary: "Supporter · Sep 2023 – Sep 2024"
+        highlights:
+          - "Supported by Samsung Speech Recognition & Natural Language Processing Lab."
 
     Interests:
       - name: Research
