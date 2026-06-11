@@ -221,7 +221,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -672,9 +671,9 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+# Only needed for the "jsonresume" CV format. This site uses the "rendercv" format
+# (data in _data/cv.yml), so no external JSON fetch is configured.
+jekyll_get_json: []
 
 jsonresume:
   - basics
