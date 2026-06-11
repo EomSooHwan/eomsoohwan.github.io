@@ -6,14 +6,15 @@ title: SooHwan Eom # the website title (if blank, full name will be used instead
 first_name: SooHwan
 middle_name: 
 last_name: Eom
-contact_note: # optional note shown next to your contact icons, e.g. "Email is the best way to reach me."
+contact_note: >
+  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal academic website of SooHwan Eom, PhD student working on
-  self-supervised learning and large language models.
+    Personal academic website of SooHwan Eom, PhD student working on self-supervised learning and large language models.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: SooHwan Eom, machine learning, self-supervised learning, large language models # add your own keywords or leave empty
+  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+keywords: SooHwan Eom, machine learning, self-supervised learning, large language models
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -122,7 +123,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: SooHwan Eom # blog_name will be displayed in your blog page
-blog_description: notes on self-supervised learning and LLMs # edit to taste
+blog_description: workspace
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -137,7 +138,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: eomsoohwan/eomsoohwan.github.io # <your-github-user-name>/<your-github-repo-name>
+  repo: # <your-github-user-name>/<your-github-repo-name>
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
@@ -151,14 +152,14 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: # deprecated; leave empty (giscus above is the recommended option)
+disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
-external_sources: [] # add entries here if you cross-post from Medium / other RSS feeds
+external_sources:
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -322,8 +323,8 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: [] # tags shown on the blog front page (defaults referenced the demo posts)
-display_categories: [] # same, for categories
+display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -331,7 +332,7 @@ display_categories: [] # same, for categories
 
 scholar:
   last_name: [Eom]
-  first_name: [SooHwan, S.]
+  first_name: [SooHwan]
 
   style: apa
   locale: en
