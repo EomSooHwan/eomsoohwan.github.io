@@ -43,3 +43,10 @@
   font-weight: 500;
   text-align: left;
 }
+
+/* Venue badges: always use white text. The gem colors unlinked badges with
+   var(--global-card-bg-color), which turns dark in dark mode and is hard to
+   read on the colored badge backgrounds (e.g. Preprint, IEIE). */
+.publications ol.bibliography li .abbr abbr {
+  color: white !important;
+}
