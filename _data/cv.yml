@@ -17,12 +17,12 @@ cv:
         location: Daejeon, Korea
         url: https://www.kaist.ac.kr/
         area: Electrical Engineering
-        studyType: PhD
+        studyType: Ph.D.
         start_date: 2024
-        end_date: present
+        end_date: Present
         highlights:
           - "Advisor: Prof. Chang D. Yoo (U-AIM Lab)"
-
+          - "GPA: (add your GPA) / 4.3"
       - institution: Korea Advanced Institute of Science and Technology (KAIST)
         location: Daejeon, Korea
         url: https://www.kaist.ac.kr/
@@ -30,19 +30,51 @@ cv:
         studyType: M.S.
         start_date: 2022
         end_date: 2024
-
+        highlights:
+          - "Advisor: Prof. Chang D. Yoo (U-AIM Lab)"
+          - "Thesis: (add your M.S. thesis title)"
+          - "GPA: (add your GPA) / 4.3"
       - institution: Korea Advanced Institute of Science and Technology (KAIST)
         location: Daejeon, Korea
         url: https://www.kaist.ac.kr/
         area: Electrical Engineering
         studyType: B.S.
+        start_date: 20XX
         end_date: 2022
+        highlights:
+          - "GPA: (add your GPA) / 4.3"
+
+    Research Experience:
+      - position: Research Student
+        company: Artificial Intelligence & Machine Learning Lab (U-AIM), KAIST
+        location: Daejeon, Korea
+        start_date: Mar 2022
+        end_date: Present
+      - position: Research Intern
+        company: Artificial Intelligence & Machine Learning Lab (U-AIM), KAIST
+        location: Daejeon, Korea
+        start_date: Aug 2021
+        end_date: Feb 2022
 
     Awards:
-      - title: ICML Spotlight (top 2.2%)
-        date: 2026
-        awarder: International Conference on Machine Learning
-        summary: "For \"Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding\"."
+      - title: National Government Scholarship (full payment for M.S. program)
+        date: Mar 2022 – Feb 2024
+      - title: National Government Scholarship (full payment for Ph.D. program)
+        date: Mar 2024 – Present
+
+    Academic Services:
+      - name: Conference Reviewing
+        # highlights:
+        #   - "Reviewer, <venue> (<year>)"
+      - name: Teaching Assistance
+        # highlights:
+        #   - "Teaching Assistant, <course> (<semester>)"
+
+    Projects:
+      - name: MX-11
+        summary: "Operator · Jan 2023 – Present"
+        highlights:
+          - "Supported by the Center for Applied Research in Artificial Intelligence (CARAI) grant funded by DAPA and ADD, Korea."
 
     Interests:
       - name: Research
