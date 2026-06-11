@@ -48,19 +48,19 @@ cv:
       - position: Research Student
         company: Artificial Intelligence & Machine Learning Lab (U-AIM), KAIST
         location: Daejeon, Korea
-        start_date: Mar 2022
+        start_date: 2022
         end_date: Present
       - position: Research Intern
         company: Artificial Intelligence & Machine Learning Lab (U-AIM), KAIST
         location: Daejeon, Korea
-        start_date: Aug 2021
-        end_date: Feb 2022
+        start_date: 2021
+        end_date: 2022
 
     Awards:
       - title: National Government Scholarship (full payment for M.S. program)
-        date: Mar 2022 – Feb 2024
+        date: 2022 – 2024
       - title: National Government Scholarship (full payment for Ph.D. program)
-        date: Mar 2024 – Present
+        date: 2024 – Present
 
     Academic Services:
       - name: Conference Reviewing
@@ -70,7 +70,7 @@ cv:
       - name: Teaching Assistance
         highlights:
           - "KAIST EE.40012 Foundation of Big Data Analytics (2024 Fall)"
-          - "KAIST EE.50031 Statistical Learning Theory  (2024 Spring, 2025 Spring, 2026 Spring)"
+          - "KAIST EE.50031 Statistical Learning Theory (2024 Spring, 2025 Spring, 2026 Spring)"
           - "KAIST EE.30031 Introduction to Machine Learning (2023 Fall, 2025 Fall)"
           - "KAIST EE.20002 Signals and Systems (2023 Spring, 2022 Fall)"
           - "Hwaseong City-KAIST AI Specialized Curriculum - Large Language Models: 2024"
@@ -79,23 +79,23 @@ cv:
 
     Projects:
       - name: MX-11
-        summary: "Operator · Jan 2023 – Apr 2026"
+        summary: "Operator · 2023 – 2026"
         highlights:
           - "Supported by the Center for Applied Research in Artificial Intelligence (CARAI) grant funded by DAPA and ADD, Korea."
       - name: Development of Causal AI through Video Understanding and Reinforcement Learning, and Its Applications to Real Environments
-        summary: "Supporter · Mar 2022 – Present"
+        summary: "Supporter · 2022 – Present"
         highlights:
           - "Supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea Government (MSIT)."
       - name: Development and Study of AI Technologies to Inexpensively Conform to Evolving Policy on Ethics
-        summary: "Supporter · Mar 2022 – Present"
+        summary: "Supporter · 2022 – Present"
         highlights:
           - "Supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea Government (MSIT)."
       - name: Development of Uncertainty-Aware Agents Learning by Asking Questions
-        summary: "Supporter · Mar 2022 – Present"
+        summary: "Supporter · 2022 – Present"
         highlights:
           - "Supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea Government (MSIT)."
       - name: Multi-modal Generative AI for Summarization
-        summary: "Supporter · Sep 2023 – Sep 2024"
+        summary: "Supporter · 2023 – 2024"
         highlights:
           - "Supported by Samsung Speech Recognition & Natural Language Processing Lab."
 
