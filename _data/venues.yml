@@ -1,9 +1,49 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Venue badge styling for the publications page.
+# Keys must match the `abbr` field in _bibliography/papers.bib entries.
+# `color` sets the badge background; `url` makes the badge a link.
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ICML":
+  url: https://icml.cc/
+  color: "#1e6091"
 
-"Vision":
-  color: "#009f36"
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#5b2c6f"
+
+"CVPRW":
+  url: https://cvpr.thecvf.com/
+  color: "#7d3c98"
+
+"ACL":
+  url: https://aclanthology.org/
+  color: "#c0392b"
+
+"EMNLP":
+  url: https://aclanthology.org/
+  color: "#b9770e"
+
+"INTERSPEECH":
+  url: https://www.isca-speech.org/
+  color: "#1d8348"
+
+"ICASSP":
+  url: https://signalprocessingsociety.org/
+  color: "#00629b"
+
+"IEEE Access":
+  url: https://ieeeaccess.ieee.org/
+  color: "#2e86c1"
+
+"Nature":
+  url: https://www.nature.com/nrcardio/
+  color: "#006c66"
+
+"IEIE":
+  color: "#6c757d"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"Preprint":
+  color: "#6c757d"
