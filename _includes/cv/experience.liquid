@@ -40,15 +40,8 @@
           {% endif %}
         </div>
 
-        {% if date_range != '' or entry.location %}
-          <div class="text-right mt-1 mt-md-0 ml-md-4" style="white-space: nowrap; opacity: 0.7; font-size: 0.9rem">
-            {% if date_range != '' %}
-              <div>{{ date_range }}</div>
-            {% endif %}
-            {% if entry.location %}
-              <div style="font-size: 0.8rem">{{ entry.location }}</div>
-            {% endif %}
-          </div>
+        {% if date_range != '' %}
+          <div class="text-right mt-1 mt-md-0 ml-md-4" style="white-space: nowrap; opacity: 0.7; font-size: 0.9rem">{{ date_range }}</div>
         {% endif %}
       </div>
 

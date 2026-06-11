@@ -13,14 +13,14 @@ overrides:
     gem_version: 1.0.0
     upstream_path: templates/cv/education.liquid
     upstream_sha256: 26b8331fcec5be5d7b56431e708fb2df108d463a5494577467f53c1dead8aa27
-    local_sha256: 4be00deee85b1ad200df7b531a51723f8be5aad580afd6d063916697b5b263b5
+    local_sha256: 68e0f54c7d3e2dc75a8477829a9acd4bd06b84d8e01ee18ed71bbf82c55ca020
     acknowledged_at: '2026-06-11'
   _includes/cv/experience.liquid:
     owner: al_folio_cv
     gem_version: 1.0.0
     upstream_path: templates/cv/experience.liquid
     upstream_sha256: 35924ec994852bc967d9d3880927ec228037a17683231b3a83fc8e585ef5fe09
-    local_sha256: 848ee56b295aa05a67e9b10346e0ff54f9d7d2651722f629651e7f8fa3d1db0d
+    local_sha256: c15c1090e66f1f160e9473daff6f7faeb9d403627b249c92ba73316b7156bfcc
     acknowledged_at: '2026-06-11'
   _includes/cv/render.liquid:
     owner: al_folio_cv
