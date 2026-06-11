@@ -200,22 +200,6 @@
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">Paper</a>
       {% endif %}
-      {% comment %} Dimensions citation badge, inline with the buttons (publications page only) {% endcomment %}
-      {% if site.enable_publication_badges.dimensions and entry.dimensions and entry.dimensions != 'false' and page.url contains '/publications' %}
-        <span
-          class="__dimensions_badge_embed__"
-          {% if entry.dimensions != blank and entry.dimensions != 'true' %}
-            data-id="{{ entry.dimensions }}"
-          {% elsif entry.doi %}
-            data-doi="{{ entry.doi }}"
-          {% elsif entry.pmid %}
-            data-pmid="{{ entry.pmid }}"
-          {% endif %}
-          data-style="small_rectangle"
-          data-legend="hover-right"
-          style="display: inline-block; vertical-align: middle; margin: 0.375rem 0.375rem 0.375rem 0;"
-        ></span>
-      {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
@@ -273,6 +257,22 @@
       {% endif %}
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+      {% endif %}
+      {% comment %} Dimensions citation badge, after all buttons (publications page only) {% endcomment %}
+      {% if site.enable_publication_badges.dimensions and entry.dimensions and entry.dimensions != 'false' and page.url contains '/publications' %}
+        <span
+          class="__dimensions_badge_embed__"
+          {% if entry.dimensions != blank and entry.dimensions != 'true' %}
+            data-id="{{ entry.dimensions }}"
+          {% elsif entry.doi %}
+            data-doi="{{ entry.doi }}"
+          {% elsif entry.pmid %}
+            data-pmid="{{ entry.pmid }}"
+          {% endif %}
+          data-style="small_rectangle"
+          data-legend="hover-right"
+          style="display: inline-block; vertical-align: middle; margin: 0.375rem 0 0.375rem 0.125rem;"
+        ></span>
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}
