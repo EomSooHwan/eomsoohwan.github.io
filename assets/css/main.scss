@@ -50,3 +50,13 @@
 .publications ol.bibliography li .abbr abbr {
   color: white !important;
 }
+
+/* On phones the theme renders the profile photo at full content width,
+   pushing the intro text below the fold; cap and center it instead. */
+@media (max-width: 575.98px) {
+  .profile img {
+    max-width: 70%;
+    display: block;
+    margin: 0 auto;
+  }
+}
