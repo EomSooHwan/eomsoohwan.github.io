@@ -1,5 +1,75 @@
-# Auto-generated Google Scholar citation cache.
-# Regenerate with `bin/update_scholar_citations.py` once `scholar_userid` is set in _data/socials.yml.
 metadata:
-  last_updated: ''
-papers: {}
+  last_updated: '2026-06-15'
+papers:
+  i8hb2bUAAAAJ:2osOgNQ5qMEC:
+    citations: 4
+    title: Zero-shot dual-path integration framework for open-vocabulary 3d instance segmentation
+    year: '2024'
+  i8hb2bUAAAAJ:9yKSN-GCB0IC:
+    citations: 8
+    title: 'Adamer-CTC: Connectionist temporal classification with adaptive maximum entropy regularization for automatic speech recognition'
+    year: '2024'
+  i8hb2bUAAAAJ:IjCSPb-OGe4C:
+    citations: 6
+    title: Query-based Cross-Modal Projector Bolstering Mamba Multimodal LLM
+    year: '2024'
+  i8hb2bUAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: 'Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding'
+    year: '2026'
+  i8hb2bUAAAAJ:Tyk-4Ss8FVUC:
+    citations: 3
+    title: 'SQuba: Speech mamba language model with querying-attention for efficient summarization'
+    year: '2024'
+  i8hb2bUAAAAJ:UeHWp8X0CEIC:
+    citations: 1
+    title: Spatial Adaptive Kernel Network for Enhanced Oriented Ship Detection in Synthetic Aperture Radar Imagery
+    year: '2024'
+  i8hb2bUAAAAJ:W7OEmFMy1HYC:
+    citations: 1
+    title: 'SiamCTC: Learning Speech Representations through Monotonic Temporal Alignment'
+    year: '2026'
+  i8hb2bUAAAAJ:WF5omc3nYNoC:
+    citations: 1
+    title: 'Gated LoRA: Dual-Purpose Projections for Parameter-Efficient Mini-Expert Fine-Tuning'
+    year: '2025'
+  i8hb2bUAAAAJ:Y0pCki6q_DkC:
+    citations: 2
+    title: 'Publisher Correction: Wearable blood pressure sensors for cardiovascular monitoring and machine learning algorithms for blood pressure estimation.'
+    year: '2025'
+  i8hb2bUAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: Wearable blood pressure sensors for cardiovascular monitoring and machine learning algorithms for blood pressure estimation (feb, 10.1038/s41569-025-01127-0, 2025)
+    year: '2025'
+  i8hb2bUAAAAJ:_FxGoFyzp5QC:
+    citations: 1
+    title: 'PDCR: Perception-Decomposed Confidence Reward for Vision-Language Reasoning'
+    year: '2026'
+  i8hb2bUAAAAJ:d1gkVwhDpl0C:
+    citations: 1
+    title: Causal Localization Network for Radar Human Localization With Micro-Doppler Signature
+    year: '2024'
+  i8hb2bUAAAAJ:eQOLeE2rZwMC:
+    citations: 6
+    title: 'PACR: Progressively Ascending Confidence Reward for LLM Reasoning'
+    year: '2025'
+  i8hb2bUAAAAJ:qjMakFHDy7sC:
+    citations: 53
+    title: 'Tlcr: Token-level continuous reward for fine-grained reinforcement learning from human feedback'
+    year: '2024'
+  i8hb2bUAAAAJ:u-x6o8ySG0sC:
+    citations: 1
+    title: Mitigating the exposure bias in sentence-level grapheme-to-phoneme (G2P) transduction
+    year: '2023'
+  i8hb2bUAAAAJ:u5HHmVD_uO8C:
+    citations: 17
+    title: Counterfactual two-stage debiasing for video corpus moment retrieval
+    year: '2023'
+  i8hb2bUAAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: High-Fidelity Text-to-Image Generation from Pre-Trained Vision-Language Models via Distribution-Conditioned Diffusion Decoding
+    year: '2026'
+  i8hb2bUAAAAJ:zYLM7Y9cAGgC:
+    citations: 112
+    title: Wearable blood pressure sensors for cardiovascular monitoring and machine learning algorithms for blood pressure estimation
+    year: '2025'
