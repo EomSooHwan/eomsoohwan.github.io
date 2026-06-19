@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-06-19'
 papers:
   i8hb2bUAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -70,6 +70,6 @@ papers:
     title: High-Fidelity Text-to-Image Generation from Pre-Trained Vision-Language Models via Distribution-Conditioned Diffusion Decoding
     year: '2026'
   i8hb2bUAAAAJ:zYLM7Y9cAGgC:
-    citations: 112
+    citations: 115
     title: Wearable blood pressure sensors for cardiovascular monitoring and machine learning algorithms for blood pressure estimation
     year: '2025'
