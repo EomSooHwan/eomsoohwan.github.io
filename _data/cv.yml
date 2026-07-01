@@ -43,6 +43,12 @@ cv:
         end_date: 2022
         highlights:
           - "GPA: 3.49 / 4.3"
+      - institution: Korean Minjok Leadership Academy (KMLA)
+        location: Hoengseong, Korea
+        url: http://english.minjok.hs.kr/
+        studyType: High School Diploma
+        start_date: 2014
+        end_date: 2017
 
     Research Experience:
       - position: Research Student
@@ -78,7 +84,7 @@ cv:
           - "Seongnam-KAIST Next Generation ICT Research Center Machine Learning and Big Data Course: 2022"
 
     Projects:
-      - name: MX-11
+      - name: Research on Scene Understanding and Causal Inference for Video-Based Surveillance and Reconnaissance
         summary: "Operator · 2023 – 2026"
         highlights:
           - "Supported by the Center for Applied Research in Artificial Intelligence (CARAI) grant funded by DAPA and ADD, Korea."
