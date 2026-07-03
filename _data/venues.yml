@@ -14,6 +14,10 @@
   url: https://cvpr.thecvf.com/
   color: "#7d3c98"
 
+"ECCV":
+ url: https://eccv.ecva.net/
+ color: "#2c3e50"
+
 "ACL":
   url: https://aclanthology.org/
   color: "#c0392b"
