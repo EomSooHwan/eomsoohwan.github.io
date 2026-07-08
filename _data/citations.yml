@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-08'
 papers:
   i8hb2bUAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -43,26 +43,30 @@ papers:
     year: '2025'
   i8hb2bUAAAAJ:_FxGoFyzp5QC:
     citations: 1
-    title: 'PDCR: Perception-Decomposed Confidence Reward for Vision-Language Reasoning'
+    title: 'Pdcr: Perception-decomposed confidence reward for vision-language reasoning'
     year: '2026'
   i8hb2bUAAAAJ:d1gkVwhDpl0C:
     citations: 1
     title: Causal Localization Network for Radar Human Localization With Micro-Doppler Signature
     year: '2024'
   i8hb2bUAAAAJ:eQOLeE2rZwMC:
-    citations: 6
+    citations: 7
     title: 'PACR: Progressively Ascending Confidence Reward for LLM Reasoning'
     year: '2025'
   i8hb2bUAAAAJ:qjMakFHDy7sC:
-    citations: 53
+    citations: 56
     title: 'Tlcr: Token-level continuous reward for fine-grained reinforcement learning from human feedback'
     year: '2024'
+  i8hb2bUAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: Transcript-Free Flow-Matching Text-to-Speech via Speech Feature Conditioning
+    year: '2026'
   i8hb2bUAAAAJ:u-x6o8ySG0sC:
     citations: 1
     title: Mitigating the exposure bias in sentence-level grapheme-to-phoneme (G2P) transduction
     year: '2023'
   i8hb2bUAAAAJ:u5HHmVD_uO8C:
-    citations: 17
+    citations: 18
     title: Counterfactual two-stage debiasing for video corpus moment retrieval
     year: '2023'
   i8hb2bUAAAAJ:ufrVoPGSRksC:
@@ -70,6 +74,6 @@ papers:
     title: High-Fidelity Text-to-Image Generation from Pre-Trained Vision-Language Models via Distribution-Conditioned Diffusion Decoding
     year: '2026'
   i8hb2bUAAAAJ:zYLM7Y9cAGgC:
-    citations: 115
+    citations: 125
     title: Wearable blood pressure sensors for cardiovascular monitoring and machine learning algorithms for blood pressure estimation
     year: '2025'
