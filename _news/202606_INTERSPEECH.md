@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Transcript-Free Flow-Matching Text-to-Speech via Speech Feature Conditioning** got accepted to Interspeech 2026.
+**Transcript-Free Flow-Matching Text-to-Speech via Speech Feature Conditioning** got accepted to Interspeech 2026 (Oral).
