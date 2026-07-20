@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-20'
 papers:
   i8hb2bUAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -54,11 +54,11 @@ papers:
     title: Causal Localization Network for Radar Human Localization With Micro-Doppler Signature
     year: '2024'
   i8hb2bUAAAAJ:eQOLeE2rZwMC:
-    citations: 7
+    citations: 8
     title: 'PACR: Progressively Ascending Confidence Reward for LLM Reasoning'
     year: '2025'
   i8hb2bUAAAAJ:qjMakFHDy7sC:
-    citations: 57
+    citations: 58
     title: 'Tlcr: Token-level continuous reward for fine-grained reinforcement learning from human feedback'
     year: '2024'
   i8hb2bUAAAAJ:roLk4NBRz8UC:
@@ -78,6 +78,6 @@ papers:
     title: High-Fidelity Text-to-Image Generation from Pre-Trained Vision-Language Models via Distribution-Conditioned Diffusion Decoding
     year: '2026'
   i8hb2bUAAAAJ:zYLM7Y9cAGgC:
-    citations: 126
+    citations: 128
     title: Wearable blood pressure sensors for cardiovascular monitoring and machine learning algorithms for blood pressure estimation
     year: '2025'
