@@ -8,4 +8,4 @@ linkedin_username: soohwan-eom-394896289 # your LinkedIn username (from the prof
 # orcid_id: # your ORCID iD (e.g., 0000-0000-0000-0000)
 # github_username: eomsoohwan # your GitHub username
 # x_username: # your X (Twitter) handle
-# cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file (place the file under assets/pdf/)
+cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file (place the file under assets/pdf/)
