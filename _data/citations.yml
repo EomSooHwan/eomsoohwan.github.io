@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-03'
 papers:
   i8hb2bUAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -7,11 +7,11 @@ papers:
     year: '2024'
   i8hb2bUAAAAJ:9yKSN-GCB0IC:
     citations: 8
-    title: 'Adamer-CTC: Connectionist temporal classification with adaptive maximum entropy regularization for automatic speech recognition'
+    title: 'Adamer-ctc: Connectionist temporal classification with adaptive maximum entropy regularization for automatic speech recognition'
     year: '2024'
   i8hb2bUAAAAJ:IjCSPb-OGe4C:
-    citations: 6
-    title: Query-based Cross-Modal Projector Bolstering Mamba Multimodal LLM
+    citations: 5
+    title: Query-based cross-modal projector bolstering mamba multimodal llm
     year: '2024'
   i8hb2bUAAAAJ:LkGwnXOMwfcC:
     citations: 2
@@ -23,7 +23,7 @@ papers:
     year: '2026'
   i8hb2bUAAAAJ:Tyk-4Ss8FVUC:
     citations: 3
-    title: 'SQuba: Speech mamba language model with querying-attention for efficient summarization'
+    title: 'Squba: Speech mamba language model with querying-attention for efficient summarization'
     year: '2024'
   i8hb2bUAAAAJ:UeHWp8X0CEIC:
     citations: 1
@@ -39,7 +39,7 @@ papers:
     year: '2025'
   i8hb2bUAAAAJ:Y0pCki6q_DkC:
     citations: 2
-    title: 'Publisher Correction: Wearable blood pressure sensors for cardiovascular monitoring and machine learning algorithms for blood pressure estimation.'
+    title: 'Publisher Correction: Wearable blood pressure sensors for cardiovascular monitoring and machine learning algorithms for blood pressure estimation'
     year: '2025'
   i8hb2bUAAAAJ:YsMSGLbcyi4C:
     citations: 0
@@ -51,14 +51,14 @@ papers:
     year: '2026'
   i8hb2bUAAAAJ:d1gkVwhDpl0C:
     citations: 1
-    title: Causal Localization Network for Radar Human Localization With Micro-Doppler Signature
+    title: Causal localization network for radar human localization with micro-Doppler signature
     year: '2024'
   i8hb2bUAAAAJ:eQOLeE2rZwMC:
     citations: 8
-    title: 'PACR: Progressively Ascending Confidence Reward for LLM Reasoning'
+    title: 'Pacr: Progressively ascending confidence reward for llm reasoning'
     year: '2025'
   i8hb2bUAAAAJ:qjMakFHDy7sC:
-    citations: 58
+    citations: 61
     title: 'Tlcr: Token-level continuous reward for fine-grained reinforcement learning from human feedback'
     year: '2024'
   i8hb2bUAAAAJ:roLk4NBRz8UC:
@@ -78,6 +78,6 @@ papers:
     title: High-Fidelity Text-to-Image Generation from Pre-Trained Vision-Language Models via Distribution-Conditioned Diffusion Decoding
     year: '2026'
   i8hb2bUAAAAJ:zYLM7Y9cAGgC:
-    citations: 130
+    citations: 133
     title: Wearable blood pressure sensors for cardiovascular monitoring and machine learning algorithms for blood pressure estimation
     year: '2025'
