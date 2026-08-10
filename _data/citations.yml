@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-10'
 papers:
   i8hb2bUAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -14,7 +14,7 @@ papers:
     title: Query-based cross-modal projector bolstering mamba multimodal llm
     year: '2024'
   i8hb2bUAAAAJ:LkGwnXOMwfcC:
-    citations: 2
+    citations: 4
     title: 'Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding'
     year: '2026'
   i8hb2bUAAAAJ:Se3iqnhoufwC:
@@ -78,6 +78,6 @@ papers:
     title: High-Fidelity Text-to-Image Generation from Pre-Trained Vision-Language Models via Distribution-Conditioned Diffusion Decoding
     year: '2026'
   i8hb2bUAAAAJ:zYLM7Y9cAGgC:
-    citations: 133
+    citations: 136
     title: Wearable blood pressure sensors for cardiovascular monitoring and machine learning algorithms for blood pressure estimation
     year: '2025'
