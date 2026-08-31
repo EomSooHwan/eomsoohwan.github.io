@@ -75,6 +75,9 @@ cv:
           - "Conference on Neural Information Processing Systems (NeurIPS): 2026"
           - "International Conference on Machine Learning (ICML): 2026 (Gold Reviewer; top 25%)"
           - "International Conference on Acoustics, Speech & Signal Processing (ICASSP): 2024, 2025, 2026"
+      - name: Journal Reviewing
+        highlights:
+          - "IEEE Transactions on Audio, Speech and Language Processing (TASLP)"
       - name: Teaching Assistance
         highlights:
           - "KAIST EE.40012 Foundation of Big Data Analytics (2024 Fall)"
