@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-31'
 papers:
   i8hb2bUAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -14,7 +14,7 @@ papers:
     title: Query-based cross-modal projector bolstering mamba multimodal llm
     year: '2024'
   i8hb2bUAAAAJ:LkGwnXOMwfcC:
-    citations: 4
+    citations: 6
     title: 'Decomposed On-Policy Distillation for Vision-Language Reasoning: Steering Gradients for Visual Grounding'
     year: '2026'
   i8hb2bUAAAAJ:Se3iqnhoufwC:
@@ -38,7 +38,7 @@ papers:
     title: 'Gated LoRA: Dual-Purpose Projections for Parameter-Efficient Mini-Expert Fine-Tuning'
     year: '2025'
   i8hb2bUAAAAJ:Y0pCki6q_DkC:
-    citations: 2
+    citations: 4
     title: 'Publisher Correction: Wearable blood pressure sensors for cardiovascular monitoring and machine learning algorithms for blood pressure estimation'
     year: '2025'
   i8hb2bUAAAAJ:YsMSGLbcyi4C:
@@ -58,11 +58,11 @@ papers:
     title: 'Pacr: Progressively ascending confidence reward for llm reasoning'
     year: '2025'
   i8hb2bUAAAAJ:qjMakFHDy7sC:
-    citations: 61
+    citations: 62
     title: 'Tlcr: Token-level continuous reward for fine-grained reinforcement learning from human feedback'
     year: '2024'
   i8hb2bUAAAAJ:roLk4NBRz8UC:
-    citations: 0
+    citations: 1
     title: Transcript-Free Flow-Matching Text-to-Speech via Speech Feature Conditioning
     year: '2026'
   i8hb2bUAAAAJ:u-x6o8ySG0sC:
@@ -78,6 +78,6 @@ papers:
     title: High-Fidelity Text-to-Image Generation from Pre-Trained Vision-Language Models via Distribution-Conditioned Diffusion Decoding
     year: '2026'
   i8hb2bUAAAAJ:zYLM7Y9cAGgC:
-    citations: 136
+    citations: 149
     title: Wearable blood pressure sensors for cardiovascular monitoring and machine learning algorithms for blood pressure estimation
     year: '2025'
